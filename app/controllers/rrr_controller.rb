@@ -1,0 +1,2 @@
+class RrrController < ApplicationController
+end
