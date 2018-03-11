@@ -1,0 +1,220 @@
+/* line 4, /home/ubuntu/workspace/bootstrap/app/assets/stylesheets/blogs.scss */
+li {
+  list-style: none;
+}
+
+/* line 7, /home/ubuntu/workspace/bootstrap/app/assets/stylesheets/blogs.scss */
+ul {
+  padding: 0;
+}
+
+/* line 11, /home/ubuntu/workspace/bootstrap/app/assets/stylesheets/blogs.scss */
+.header {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
+
+/* line 17, /home/ubuntu/workspace/bootstrap/app/assets/stylesheets/blogs.scss */
+.menu {
+  background-color: #012F4B;
+  color: #fff;
+}
+
+/* line 21, /home/ubuntu/workspace/bootstrap/app/assets/stylesheets/blogs.scss */
+.menu li {
+  padding: 5% 10%;
+  text-align: center;
+}
+
+/* line 26, /home/ubuntu/workspace/bootstrap/app/assets/stylesheets/blogs.scss */
+.contents li {
+  background-color: #F3A7AB;
+  color: #fff;
+  padding: 10% 10%;
+  box-sizing: border-box;
+  border: solid 1px #fff;
+}
+
+/* line 33, /home/ubuntu/workspace/bootstrap/app/assets/stylesheets/blogs.scss */
+.topic li {
+  margin: 1%;
+  border-bottom: dotted 1px #333333;
+}
+
+/* line 37, /home/ubuntu/workspace/bootstrap/app/assets/stylesheets/blogs.scss */
+.container {
+  margin-top: 20px;
+}
+
+/* line 41, /home/ubuntu/workspace/bootstrap/app/assets/stylesheets/blogs.scss */
+.alert {
+  padding: 15px;
+  margin-bottom: 20px;
+  border: 1px solid transparent;
+  border-radius: 4px;
+}
+
+/* line 48, /home/ubuntu/workspace/bootstrap/app/assets/stylesheets/blogs.scss */
+.alert-success {
+  background-color: #dff0d8;
+  border-color: #d6e9c6;
+  color: #3c763d;
+}
+
+/* line 53, /home/ubuntu/workspace/bootstrap/app/assets/stylesheets/blogs.scss */
+.alert-success {
+  background-color: pink;
+}
+/* line 4, /home/ubuntu/workspace/bootstrap/app/assets/stylesheets/rrr.scss */
+li {
+  list-style: none;
+}
+
+/* line 7, /home/ubuntu/workspace/bootstrap/app/assets/stylesheets/rrr.scss */
+ul {
+  padding: 0;
+}
+
+/* line 11, /home/ubuntu/workspace/bootstrap/app/assets/stylesheets/rrr.scss */
+.header {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
+
+/* line 17, /home/ubuntu/workspace/bootstrap/app/assets/stylesheets/rrr.scss */
+.logo_image {
+  float: left;
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  top: 30px;
+  left: 70px;
+  display: inline-block;
+}
+
+/* line 27, /home/ubuntu/workspace/bootstrap/app/assets/stylesheets/rrr.scss */
+.menu {
+  background-color: #012F4B;
+  color: #fff;
+}
+
+/* line 32, /home/ubuntu/workspace/bootstrap/app/assets/stylesheets/rrr.scss */
+.menu li {
+  padding: 5% 10%;
+  text-align: center;
+}
+
+/* line 39, /home/ubuntu/workspace/bootstrap/app/assets/stylesheets/rrr.scss */
+.contents li {
+  background-color: #F3A7AB;
+  color: #fff;
+  padding: 10% 10%;
+  box-sizing: border-box;
+  border: solid 1px #fff;
+}
+
+/* line 47, /home/ubuntu/workspace/bootstrap/app/assets/stylesheets/rrr.scss */
+.topic li {
+  margin: 1%;
+  border-bottom: dotted 1px #333333;
+}
+
+/* line 51, /home/ubuntu/workspace/bootstrap/app/assets/stylesheets/rrr.scss */
+.container {
+  margin-top: 20px;
+}
+
+/* line 55, /home/ubuntu/workspace/bootstrap/app/assets/stylesheets/rrr.scss */
+.alert {
+  padding: 15px;
+  margin-bottom: 20px;
+  border: 1px solid transparent;
+  border-radius: 4px;
+}
+
+/* line 62, /home/ubuntu/workspace/bootstrap/app/assets/stylesheets/rrr.scss */
+.alert-success {
+  background-color: #dff0d8;
+  border-color: #d6e9c6;
+  color: #3c763d;
+}
+
+/* line 67, /home/ubuntu/workspace/bootstrap/app/assets/stylesheets/rrr.scss */
+.alert-success {
+  background-color: pink;
+}
+/* line 5, /home/ubuntu/workspace/bootstrap/app/assets/stylesheets/tops.scss */
+header {
+  width: 100%;
+  background-color: #2c3e50;
+  height: 54px;
+}
+
+/* line 11, /home/ubuntu/workspace/bootstrap/app/assets/stylesheets/tops.scss */
+header ul {
+  margin: 0 auto;
+  list-style: none;
+}
+
+/* line 16, /home/ubuntu/workspace/bootstrap/app/assets/stylesheets/tops.scss */
+header ul a {
+  display: block;
+  padding: 15px;
+  text-decoration: none;
+  color: white;
+}
+
+/* line 23, /home/ubuntu/workspace/bootstrap/app/assets/stylesheets/tops.scss */
+header li {
+  float: left;
+  width: auto;
+}
+
+/* line 29, /home/ubuntu/workspace/bootstrap/app/assets/stylesheets/tops.scss */
+header ul:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+/* line 35, /home/ubuntu/workspace/bootstrap/app/assets/stylesheets/tops.scss */
+footer {
+  width: 100%;
+  background-color: #2c3e50;
+  padding: 20px 0 10px 0;
+  color: white;
+  margin: auto;
+  padding-bottom: 10px;
+  font-size: 12px;
+  position: absolute;
+  bottom: 0;
+}
+
+/* line 47, /home/ubuntu/workspace/bootstrap/app/assets/stylesheets/tops.scss */
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+/* line 52, /home/ubuntu/workspace/bootstrap/app/assets/stylesheets/tops.scss */
+body {
+  text-align: center;
+}
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, or any plugin's
+ * vendor/assets/stylesheets directory can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any other CSS/SCSS
+ * files in this directory. Styles in this file should be added after the last require_* statement.
+ * It is generally better to create a new file per style scope.
+ * require bootstrap/dist/css/bootstrap.min
+
+
+ */
+
